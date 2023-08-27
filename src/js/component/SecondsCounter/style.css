@@ -1,0 +1,9 @@
+.bigContainer {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    font-size: 30px;
+    line-height: 30px;
+    color: white;
+    padding: 20px;
+}
