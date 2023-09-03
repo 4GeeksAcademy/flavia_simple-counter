@@ -1,2 +1,2 @@
-import SecondsCounter from "./SecondsCounter";
+import SecondsCounter from ".SecondsCounter.jsx";
 export default SecondsCounter;
